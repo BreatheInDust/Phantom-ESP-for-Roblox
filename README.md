@@ -28,9 +28,9 @@ You can customize the ESP by modifying the following variables in the script:
 
 ## Installation
 
-1. Insert the script into a **LocalScript** inside `StarterPlayerScripts` or a similar client-side context.
-2. Ensure your executor supports **client-side execution**.
-3. Run the game, and the ESP will automatically create UI elements for all other players.
+1. Inject the script into the desired game with a server or client sided executor.
+2. Execute it.
+3. Try not to be called a naive child.
 
 ## Compatibility
 
@@ -44,4 +44,4 @@ Once running, the ESP automatically updates every frame (throttled by `REFRESH_R
 
 ---
 
-**Disclaimer:** This script is for educational purposes. Use responsibly and adhere to Roblox’s Terms of Service.
+**Disclaimer:** This script is was made entirely by one person, please do not report me.
